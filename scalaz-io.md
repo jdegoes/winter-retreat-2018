@@ -6,6 +6,8 @@ autoscale: true
 #### John A. De Goes
 #### @jdegoes - http://degoes.net
 
+<https://github.com/jdegoes/winter-retreat-2018>
+
 ---
 
 # *Agenda*
@@ -559,7 +561,6 @@ openFile("data.json").bracket(closeFile(_)) { file =>
 }
 ```
 
-
 ---
 
 # Resource Safety
@@ -666,10 +667,15 @@ And many more!
 
 ---
 
-# [fit] *This is War*
+# [fit] *Hands-On*
+
+<https://github.com/jdegoes/winter-retreat-2018>
 
 ---
 
-# [fit] *Hands-On*
+# THANK YOU!
 
+### *John A. De Goes — @jdegoes*
+
+<https://github.com/jdegoes/winter-retreat-2018>
 
