@@ -108,7 +108,7 @@ val answer: IO[Int] = IO.point(42)
 ```scala
 trait IO[A] {
   ...
-  def map[B](f: A => IO[B]): IO[B] = ???
+  def map[B](f: A => B): IO[B] = ???
 }
 ...
 IO.point(2).map(_ * 3) // IO.point(6)
